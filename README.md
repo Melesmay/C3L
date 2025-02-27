@@ -1,3 +1,3 @@
 # Centroid-based Contrastive Consistency Learning for Transferable Deepfake Detection
 
-Our code will coming soon...
+Ruiqi Zha, Zhichao Lian, Qianmu Li
